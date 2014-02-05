@@ -1,0 +1,64 @@
+ <style type="text/css">
+        .block1 {
+        width:900px;
+        height: 900px;
+        position:absolute;
+        left:2%;
+        top:2%;
+        border: solid 1px black;
+        margin:0px 0 0 0px;
+        background:#003300;
+        }
+        .block2 {
+        width:70%;
+        height:70%;
+        position:absolute;
+        left:15%;
+        top:15%;
+        border: solid 1px black;
+        color: blue;
+        background:#006699;
+        }
+        .block3a {
+        width:116px;
+        height:116px;
+        position:absolute;
+        left:1%;
+        top:1%;
+        border: solid 1px black;
+        background:#66CCFF;
+        }
+
+        .block3b {
+        width:116px;
+        height:116px;
+        position:absolute;
+        left:86%;
+        top:1%;
+        border: solid 1px black;
+        background:#66CCFF;
+        }
+
+        .block3c {
+        width:116px;
+        height:116px;
+        position:absolute;
+        left:1%;
+        top:86%;
+        border: solid 1px black;
+        background:#66CCFF;
+
+        }
+
+        .block3d {
+        width:116px;
+        height:116px;
+        position:absolute;
+        left:86%;
+        top:86%;
+        border: solid 1px black;
+        background:#66CCFF;
+        }
+
+
+    </style>
